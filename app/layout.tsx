@@ -4,9 +4,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 import "./globals.css"
 
 export const metadata = {
-  title: "Firebase Database Admin",
-  description: "Admin interface for Firebase database management",
-    generator: 'v0.dev'
+  title: "Administrator DKH",
+  description: "-",
+    generator: 'By Mehul Bansal'
 }
 
 export default function RootLayout({
